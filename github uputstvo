@@ -1,0 +1,18 @@
+sifra ya github  Meron555Meron
+username ivanbkovacevic
+
+git init  -  pravis folder tj repozitori
+git remote  -  to pravis sa http onim linkom ili sa SSH
+git remote add origin
+git remote -v   gledas da li je tu origin git remote add origin
+
+staging area  ... u nju se stavljau fajlovi sa git add
+commiting
+
+
+save
+commit
+add
+
+git commit -a   sve commituje
+git status   ...vidis stanje
