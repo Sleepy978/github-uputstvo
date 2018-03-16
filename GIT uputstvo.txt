@@ -1,0 +1,29 @@
+sifra ya github  Meron555Meron
+username ivanbkovacevic
+
+git config --global user.name
+git config --global user.email
+
+git init ime foldera -  pravis folder tj repozitori
+git init ulazis i inicijalizujes ga
+
+
+git add  - stavljas ih u stagging area
+git status   ...vidis stanje
+git commit -a  -m     sve commituje sa messagom
+
+git diff
+
+git remote add origin http,,,, -  to pravis sa http onim linkom ili sa SSH
+
+git remote -v   gledas da li je tu origin git remote add origin
+
+staging area  ... u nju se stavljau fajlovi sa git add
+commiting
+
+
+
+
+
+
+git clone - uzimas foldere i pravis ih na svom kompu
