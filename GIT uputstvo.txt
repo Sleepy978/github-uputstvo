@@ -13,6 +13,7 @@ git status   ...vidis stanje
 git commit -a  -m     sve commituje sa messagom
 
 git diff
+git diff --stage
 
 git remote add origin http,,,, -  to pravis sa http onim linkom ili sa SSH
 
